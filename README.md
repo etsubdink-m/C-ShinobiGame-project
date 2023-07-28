@@ -1,1 +1,1 @@
-# Simple 2D Game developed using C++ SMFL Library
+# Simple 2D Game developed using C++ SFML Library
